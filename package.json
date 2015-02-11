@@ -1,0 +1,34 @@
+{
+  "name": "broccoli-soy",
+  "description": "Soy / Closure Templates plugin for Broccoli",
+  "version": "0.1.0",
+  "author": {
+    "name": "Bradley Ayers",
+    "email": "bradley.ayers@gmail.com"
+  },
+  "main": "index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bradleyayers/broccoli-soy"
+  },
+  "keywords": [
+    "broccoli-plugin",
+    "soy",
+    "closure",
+    "templates"
+  ],
+  "dependencies": {
+    "broccoli-caching-writer": "^0.5.4",
+    "broccoli-kitchen-sink-helpers": "^0.2.6",
+    "broccoli-merge-trees": "^0.2.1",
+    "include-path-searcher": "^0.1.0",
+    "libumd": "^0.4.0",
+    "lodash": "^2.4.1"
+  },
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/bradleyayers/broccoli-soy/issues"
+  },
+  "homepage": "https://github.com/bradleyayers/broccoli-soy"
+}
